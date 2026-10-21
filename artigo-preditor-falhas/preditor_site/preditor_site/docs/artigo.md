@@ -335,7 +335,7 @@ UNIVERSITY OF NEW SOUTH WALES. *The UNSW-NB15 Dataset*. Disponível em: https://
 
 **Código-fonte:** https://github.com/FelipeVeiga775/Artigo_preditor_redes
 
-**Dados utilizados:** Todos os dados presente na pasta "dados"
+**Dados utilizados:** Todos os dados estão presente na pasta "dados"
 
 **Instruções de execução:** Clone o repositório, instale as dependências Python necessárias e execute os scripts de processamento, treinamento e avaliação dos modelos conforme documentado no projeto. Para visualizar o site localmente, abra o index.html com a extensão Live Server do VS Code.
 

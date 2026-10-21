@@ -34,7 +34,7 @@ jobs:
       - name: Preparar arquivos do site
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './artigo-preditor-falhas'
+          path: './artigo-preditor-falhas/preditor_site/preditor_site'
 
       - name: Publicar site
         id: deployment
