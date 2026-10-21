@@ -86,6 +86,16 @@ def avaliar_modelo(nome, modelo, X_treino, X_teste, y_treino, y_teste):
 
     matriz = confusion_matrix(y_teste, previsoes, labels=[0, 1])
 
+    print("\nMatriz de confusão:")
+    print(matriz)
+
+    vn, fp, fn, vp = matriz.ravel()
+
+    print(f"Verdadeiros negativos: {vn}")
+    print(f"Falsos positivos: {fp}")
+    print(f"Falsos negativos: {fn}")
+    print(f"Verdadeiros positivos: {vp}")
+
     print(f"Tempo de treinamento: {tempo_treino:.2f} segundos")
     print(f"Tempo de previsão: {tempo_previsao:.2f} segundos")
     print(f"Precisão: {metricas['Precisão']:.4f}")
