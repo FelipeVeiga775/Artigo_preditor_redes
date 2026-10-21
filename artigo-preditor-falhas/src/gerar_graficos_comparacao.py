@@ -64,7 +64,7 @@ plt.bar(
     dados["Tempo de previsão (s)"]
 )
 
-plt.title("Tempo de previsão no conjunto de teste")
+plt.title("Tempo de previsão no conjunto de testes")
 plt.ylabel("Tempo (segundos)")
 plt.xlabel("Modelo")
 plt.grid(axis="y", alpha=0.3)
