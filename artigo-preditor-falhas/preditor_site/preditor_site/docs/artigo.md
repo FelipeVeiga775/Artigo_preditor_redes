@@ -319,21 +319,25 @@ SCIKIT-LEARN DEVELOPERS. *DecisionTreeClassifier documentation*. Disponível em:
 
 UNIVERSITY OF NEW SOUTH WALES. *The UNSW-NB15 Dataset*. Disponível em: https://research.unsw.edu.au/projects/unsw-nb15-dataset. Acesso em: [data de acesso].
 
-## Sobre os autores
+## Autores
 
-**[Nome do autor 1]** — [Curso, instituição, interesses acadêmicos e contribuição para o projeto].
+**Eduardo Quintino Filho** 
 
-**[Nome do autor 2]** — [Curso, instituição, interesses acadêmicos e contribuição para o projeto].
+**Felipe Veiga da Silva** 
 
-**Contribuições dos autores:** [Descrever a participação de cada integrante na pesquisa, implementação, análise dos resultados e elaboração do artigo].
+**Henrique de Aguiar Fernandes** 
+
+**Niccolas Luppeti dos Santos** 
+
+**Tharik de Lima Santos** 
 
 ## Repositório e reprodutibilidade
 
-**Código-fonte:** [Inserir URL do repositório público no GitHub].
+**Código-fonte:** https://github.com/FelipeVeiga775/Artigo_preditor_redes
 
-**Dados utilizados:** conjunto público UNSW-NB15, disponível no portal oficial da UNSW.
+**Dados utilizados:** Todos os dados presente na pasta "dados"
 
-**Instruções de execução:** [Inserir o procedimento documentado no README, incluindo a instalação das dependências e a execução dos scripts].
+**Instruções de execução:** Clone o repositório, instale as dependências Python necessárias e execute os scripts de processamento, treinamento e avaliação dos modelos conforme documentado no projeto. Para visualizar o site localmente, abra o index.html com a extensão Live Server do VS Code.
 
-**Data da última atualização:** [Inserir data].
+**Data da última atualização:** 21/10/2026
 
